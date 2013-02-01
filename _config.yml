@@ -1,8 +1,8 @@
 # standard jekyll configuration
 
-name: 菜菜博士
-url: http://microcai.org
-description: 博士在网络的家
+name: kiki
+url: http://kiki.microcai.org
+description: kiki 的 blog
 
 permalink: date
 pygments: true
@@ -16,9 +16,9 @@ plugins: ./_plugins
 # configuration required for some pages
 
 domain: microcai.org
-title: 菜菜博士 - 博士在网络的家
-author: microcai
-email: microcaicai@gmail.com
+title: 生如夏花之灿烂
+author: kiki
+email: kiki.caicai@gmail.com
 
 # configuration for ehancements, uncomment to enable
 
@@ -29,7 +29,7 @@ email: microcaicai@gmail.com
 #   account: UA-XXXXX-X
 
 github:
-   username: microcai
+   username: kikidong
 
 disqus:
    id: drcai

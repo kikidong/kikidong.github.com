@@ -21,5 +21,4 @@ description: A description about my blog homepage
       {% endif %}
     {% endfor %}
   </ul>
-  <iframe width="100%" height="400" class="share_self"  frameborder="0" scrolling="no" src="http://widget.weibo.com/weiboshow/index.php?language=&width=0&height=400&fansRow=2&ptype=1&speed=100&skin=5&isTitle=0&noborder=0&isWeibo=1&isFans=0&uid=1292997095&verifier=b5a9690c&dpc=1"></iframe>
 </div>
