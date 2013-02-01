@@ -4,7 +4,7 @@ description: A description about my blog homepage
 ---
 
 <div id="posts">
-  <h3><a href="http://microcai.org/feed">RSS feed</a></h3>
+  <h3><a href="/feed">RSS feed</a></h3>
   <h2>日志</h2>
   <ul>
     {% for post in site.posts %}
